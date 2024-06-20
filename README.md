@@ -12,8 +12,8 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/submission-manager-backend.git
-    cd submission-manager-backend
+    git clone https://github.com/Kumara-Gurubaran-M/task-2-backend-server.git
+    cd task-2-backend-server
     ```
 
 2. **Install Dependencies:**
