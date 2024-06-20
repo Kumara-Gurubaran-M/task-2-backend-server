@@ -5,7 +5,7 @@
 
 - **Node.js** (version 14 or higher)
 - **npm** (version 6 or higher)
-- **Visual Studio Code** or **Visual Studio 2022**
+-  **Visual Studio 2022**
 
 ### Setup
 
