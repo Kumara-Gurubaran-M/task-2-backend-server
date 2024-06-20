@@ -61,7 +61,7 @@
     Create a .vscode folder at the root of your project if it doesn't exist. Inside this folder, create a launch.json file with the following configuration:
 
 ```json
-Copy code
+
 {
   "version": "0.2.0",
   "configurations": [
